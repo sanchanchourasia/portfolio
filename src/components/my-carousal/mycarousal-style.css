@@ -1,0 +1,17 @@
+.home{
+    height: 95vh;
+    background: linear-gradient(to left, #6A7DFF,#b5b5b9,#b5b5b9, #6A7DFF);
+    
+    
+}
+
+.title{
+    color: black;
+    text-align: center;
+    font-size:45px;
+    font-weight: 700; 
+    font-family: 'Crimson Text', serif;
+    letter-spacing: 2px;
+    text-shadow: 33px solid red;
+    
+}
